@@ -1,6 +1,6 @@
 
 //esto es la api
-/*
+
 const videojuegos = [
     {
         "id":1,
@@ -27,4 +27,4 @@ const videojuegos = [
 
 module.exports = {
     videojuegos
-}*/
+}
